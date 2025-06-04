@@ -22,7 +22,7 @@ body {
   position: fixed;
   top: 0;
   width: 100%;
-  background-color: #c2d96d;
+  background-color: #b7ce64;
   color: white;
   display: flex;
   flex-wrap: wrap;
@@ -224,7 +224,7 @@ footer {
 }
 
 .accessibility-menu button:hover {
-  background-color: #2e563b;
+  background-color: #135c2cc6;
 }
 
 .high-contrast {
@@ -240,7 +240,7 @@ footer {
   .nav-links {
     display: none;
     flex-direction: column;
-    background-color: #3f704d;
+    background-color: #0bb53beb;
     position: absolute;
     top: 100%;
     right: 0;
