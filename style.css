@@ -217,14 +217,14 @@ footer {
 .accessibility-menu button {
   padding: 8px;
   border: none;
-  background-color: #389452;
+  background-color: #8caf0b;
   color: white;
   border-radius: 6px;
   cursor: pointer;
 }
 
 .accessibility-menu button:hover {
-  background-color: #329555c6;
+  background-color: #8caf0b;
 }
 
 .high-contrast {
@@ -240,7 +240,7 @@ footer {
   .nav-links {
     display: none;
     flex-direction: column;
-    background-color: #0bb53beb;
+    background-color: #51f47feb;
     position: absolute;
     top: 100%;
     right: 0;
