@@ -22,7 +22,7 @@ body {
   position: fixed;
   top: 0;
   width: 100%;
-  background-color: #e3ff7f;
+  background-color: #c2d96d;
   color: white;
   display: flex;
   flex-wrap: wrap;
@@ -128,7 +128,7 @@ section p {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  background-color: #3f704d;
+  background-color: #676b22;
   color: white;
   border: none;
   font-size: 1.5rem;
