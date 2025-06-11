@@ -49,7 +49,7 @@ window.addEventListener('load', revealOnScroll);
 const images = [
   './img/16542.jpg',
   './img/colheitasoja_012.jpg',
-  './img/alimentos.png'
+  './img/alimentos.jpg'
 ];
 let currentIndex = 0;
 
