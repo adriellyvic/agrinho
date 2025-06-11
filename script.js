@@ -47,8 +47,8 @@ window.addEventListener('load', revealOnScroll);
 
 // Carrossel
 const images = [
-  './img/campo.png',
-  './img/malte.png',
+  './img/16542.jpg',
+  './img/colheitasoja_012.jpg',
   './img/cidade.png'
 ];
 let currentIndex = 0;
